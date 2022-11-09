@@ -12,3 +12,4 @@ My name is Youngwook Go and I'm grade 10 student of mother terresa high school.
 
 Personal [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yw07kr@gmail.com)
 
+<ㅁ href="mailto:yw07kr@gmail.com">gmail</a>
