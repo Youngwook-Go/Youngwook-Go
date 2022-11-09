@@ -10,6 +10,8 @@ My name is Youngwook Go and I'm grade 10 student of mother terresa high school.
 
 ## 💬Soclal
 
-Personal [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yw07kr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yw07kr@gmail.com)   Personal
 
-<ㅁ href="mailto:yw07kr@gmail.com">gmail</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngwook.go@stu.ocsb.ca)   OCSB
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngwook.go@mths.ca)   MTHS
