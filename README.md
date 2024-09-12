@@ -19,6 +19,6 @@ In ICS3U class:
 
 ## 💬Soclal
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngwook.go@stu.ocsb.ca)   Ottawa Catholic School Board Account
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngwook.go@stu.ocsb.ca)   Ottawa Catholic School Board
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngwook.go@mths.ca)   Mother Teressa High School Account
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youngwook.go@mths.ca)   Mother Teressa High School
